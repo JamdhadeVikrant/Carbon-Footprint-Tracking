@@ -1,8 +1,3 @@
-"""Simple U-Net implementation for semantic segmentation.
-This architecture matches the one expected by the pretrained `model.pth` file.
-Only the forward pass is defined; training helpers are intentionally omitted.
-"""
-
 import torch
 import torch.nn as nn
 
